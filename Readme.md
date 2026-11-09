@@ -66,8 +66,8 @@ The two CNN experiments use different input representations and implementations.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
+git clone https://github.com/alirznmt/DeepLearning_IDS.git
+cd DeepLearning_IDS
 ```
 
 Replace the placeholders with your repository details.
